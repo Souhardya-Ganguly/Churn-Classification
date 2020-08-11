@@ -1,2 +1,2 @@
 # Churn-Classification
-Beginner Data Science Model 
+Beginner Data Science Model using Artificial Neural Network
